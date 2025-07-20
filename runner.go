@@ -5,12 +5,12 @@ import (
 	"fmt"
 	"os"
 
-	"os-scrapper/agents/RunningServicesAndDaemons"
-	"os-scrapper/agents/env_info"
-	"os-scrapper/agents/kernel_probe"
-	"os-scrapper/agents/osinfo"
-	"os-scrapper/agents/shellhistory"
-	"os-scrapper/agents/shellinfo"
+	"os-scraper/agents/RunningServicesAndDaemons"
+	"os-scraper/agents/env_info"
+	"os-scraper/agents/kernel_probe"
+	"os-scraper/agents/osinfo"
+	"os-scraper/agents/shellhistory"
+	"os-scraper/agents/shellinfo"
 )
 
 func main() {
